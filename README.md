@@ -27,9 +27,9 @@
 
 <h2>📫 Where to find me:</h2>
 <p>
-  💼 <a href="https://yourfreelancerprofile.com">Freelancer Profile</a><br>
-  📧 <a href="mailto:youremail@gmail.com">satoyatooh@gmail.com</a><br>
-  🐦 <a href="https://twitter.com/yourtwitter">Twitter</a>
+  💼 <a href="https://yourfreelancerprofile.com">Freelancer? No. </a><br>
+  📧 <a href="satoyatooh@gmail.com">satoyatooh@gmail.com</a><br>
+  🐦 <a href="https://x.com/bosto_com">Twitter</a>
 </p>
 
 ---
