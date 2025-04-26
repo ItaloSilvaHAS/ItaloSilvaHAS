@@ -19,7 +19,6 @@
 
 <h2>🌟 Featured Projects:</h2>
 <ul>
-  <li><strong>💻 My Tabletop RPG:</strong> (in progress)</li>
   <li><strong>🚀 My Portfolio:</strong> (coming soon)</li>
 </ul>
 
