@@ -37,5 +37,5 @@
 <h2 align="center">"Learning is my weapon, and every step matters on my journey of growth!"</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKLEzChQ3MUx1TW/giphy.gif" alt="coding gif" width="200">
+  <img src="eucoding.webp" alt="coding gif" width="200">
 </p>
