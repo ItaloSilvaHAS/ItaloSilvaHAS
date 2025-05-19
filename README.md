@@ -20,7 +20,7 @@
 <h2>🌟 Featured Projects:</h2>
 <ul>
   <li><strong>🚀 My Portfolio:</strong> (coming soon)</li>
-  <li><strong>📖 Projeto EVE:</strong> projeto-eve.app.vercel </li>
+  <li><strong>📖 Projeto EVE:</strong> projeto-eve.vercel.app </li>
 </ul>
 
 ---
