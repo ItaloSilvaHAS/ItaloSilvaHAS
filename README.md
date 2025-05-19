@@ -20,24 +20,9 @@
 <h2>🌟 Featured Projects:</h2>
 <ul>
   <li><strong>🚀 My Portfolio:</strong> (coming soon)</li>
+   <li><strong>🦋 impulso Vida:</strong> (coming soon)</li>
+    <li><strong>🖥️ "Ryan Project":</strong> (coming soon)</li>
  <li><strong>📖 Projeto EVE:</strong> <a href="https://projeto-eve.vercel.app" target="_blank">Concluido</a></li>
-</ul>
-
----
-
-<h2>📝 Project Descriptions:</h2>
-
-<ul>
-  <li><strong>📖 Projeto EVE:</strong> 
-    <p>EVE é uma plataforma de ensino híbrido (EAD e presencial) que conecta estudantes e professores com foco no estudo de qualidade e desenvolvimento pessoal. A aplicação oferece uma experiência dinâmica, com navegação fluida e design moderno, utilizando HTML5, CSS3 (Tailwind CSS) e JavaScript.</p>
-
-<p>Funcionalidades principais incluem navegação entre abas sem recarregar a página e layout totalmente responsivo. O projeto é uma excelente base para iniciativas educacionais, seja para cursos online ou presenciais.</p>
-
-<p>Confira a plataforma em funcionamento <a href="https://projeto-eve.vercel.app" target="_blank">aqui</a>.</p>
-
-  <li><strong>🚀 My Portfolio:</strong> 
-    <p>O projeto de meu portfólio está em andamento. Ele foi desenvolvido para mostrar meu trabalho e habilidades de forma criativa e profissional. A estrutura foi construída com (descrever as tecnologias que você usou ou pretende usar), e estou implementando funcionalidades para torná-lo mais interativo. A principal lição até o momento foi aprender como criar uma interface limpa e eficiente. O site estará disponível em breve!</p>
-  </li>
 </ul>
 
 ---
