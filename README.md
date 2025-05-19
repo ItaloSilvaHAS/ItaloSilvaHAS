@@ -30,7 +30,7 @@
 <h2>📫 Get in touch:</h2>
 <p>
   💼 <s>Freelancer? Not yet.</s><br>
-  📧 <a href="mailto:satoyatooh@gmail.com">italo.ss2007@gmail.com</a><br>
+  📧 <a href="mailto:italo.ss@gmail.com">italo.ss2007@gmail.com</a><br>
   🐦 <a href="https://x.com/bosto_com" target="_blank">Twitter</a>
 </p>
 
