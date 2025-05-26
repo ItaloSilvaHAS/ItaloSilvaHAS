@@ -20,7 +20,7 @@
 <h2>🌟 Featured Projects:</h2>
 <ul>
   <li><strong>🚀 My Portfolio:</strong> (coming soon)</li>
-   <li><strong>🦋 impulso Vida:</strong> (coming soon)</li>
+   <li><strong>🦋 impulso Vida:</strong> <a href="https://impulso-vida.vercel.app/" target="_blank">Concluido</a></li>
     <li><strong>🖥️ "Ryan Project":</strong> (coming soon)</li>
  <li><strong>📖 Projeto EVE:</strong> <a href="https://projeto-eve.vercel.app" target="_blank">Concluido</a></li>
 </ul>
