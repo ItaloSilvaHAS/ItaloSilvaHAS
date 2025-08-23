@@ -1,89 +1,281 @@
-<h1 align="center">✨ Olá! Eu sou o Ítalo 👋</h1>
+<div align="center">
 
-<p align="center">
-  💻 <strong>Desenvolvedor iniciante</strong> apaixonado por criar experiências digitais únicas.<br>
-  🚀 Explorando <strong>Front-end</strong>, <strong>Back-end</strong>, <strong>Games</strong> e <strong>Desktop</strong> — crescendo uma linha de código por vez!
+# 🌟 Ítalo Silva 🌟
+### ✨ Desenvolvedor Full-Stack & Criador Digital ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Criando+experiências+digitais+únicas;Front-end+%7C+Back-end+%7C+Games+%7C+Desktop;Sempre+aprendendo%2C+sempre+evoluindo" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Foco-Inovação%20%26%20Impacto%20Social-00D9FF?style=for-the-badge&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-00FF87?style=for-the-badge&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Localização-Brasil%20🇧🇷-FFD700?style=for-the-badge&labelColor=1e1e2e" />
 </p>
 
-<p align="center">
-  <img src="eucoding.webp" width="200" alt="Programando" />
-</p>
+<img src="eucoding.webp" width="300" alt="Programando" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" />
+
+</div>
 
 ---
 
-## 🧠 Sobre Mim
+<div align="center">
 
-- 🎓 Estudando e aprimorando habilidades em várias tecnologias
-- 🎮 Criando jogos, apps e sites para ganhar experiência (e me divertir!)
-- 🧩 Apaixonado por lógica, design e inovação
-- 🛠️ Sempre buscando aprender mais e expandir meu stack
+## 🚀 Sobre Minha Jornada
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💫 **Quem Sou**
+- 🎯 **Desenvolvedor apaixonado** por criar soluções que impactam vidas
+- 🌱 **Eternamente estudando** - cada dia é uma nova oportunidade de crescer
+- 🎮 **Game Developer** nas horas vagas
+- 🎨 **UI/UX Enthusiast** - acredito que beleza e funcionalidade andam juntas
+
+</td>
+<td width="50%">
+
+### 🎯 **Meu Foco**
+- 🌍 **Impacto Social** através da tecnologia
+- 🚀 **Inovação** em cada linha de código
+- 📚 **Educação** e aprendizado contínuo
+- 🔮 **Futuro** - sempre pensando no que vem por aí
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-### 💻 **Linguagens**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+## ⚡ Arsenal Tecnológico
+
+</div>
+
+<details>
+<summary>💻 <strong>Linguagens de Programação</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+</div>
+</details>
 
-### ⚙️ **Frameworks & Bibliotecas**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-333333?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kivy-4BC51D?style=for-the-badge&logo=kivy&logoColor=white" />
-  <img src="https://img.shields.io/badge/KivyMD-1A237E?style=for-the-badge&logo=kivy&logoColor=white" />
-</p>
+<details>
+<summary>🛠️ <strong>Frameworks & Bibliotecas</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+</details>
 
-### 🛠️ **Ferramentas**
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<details>
+<summary>🔧 <strong>Ferramentas de Desenvolvimento</strong></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+</details>
+
+---
+
+<div align="center">
+
+## 🏆 Portfólio de Projetos
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **Projetos de Impacto Social**
+
+<details>
+<summary>🦋 <strong>Impulso Vida</strong> - Plataforma de Impacto Social</summary>
+
+**🔗 [impulso-vida.vercel.app](https://impulso-vida.vercel.app/)**
+
+Uma plataforma completa focada em causar impacto social positivo. Desenvolvida com tecnologias modernas para conectar pessoas e organizações em prol de causas sociais.
+
+**Tecnologias:** `React` `Node.js` `Vercel`
+**Status:** ✅ **Concluído & Deploy Ativo**
+
+</details>
+
+<details>
+<summary>📖 <strong>Projeto EVE</strong> - Narrativa Interativa Web</summary>
+
+**🔗 [projeto-eve.vercel.app](https://projeto-eve.vercel.app)**
+
+Uma experiência narrativa interativa inovadora no formato web, explorando storytelling digital e interação do usuário de forma criativa.
+
+**Tecnologias:** `HTML5` `CSS3` `JavaScript` `Vercel`
+**Status:** ✅ **Concluído & Deploy Ativo**
+
+</details>
+
+</td>
+<td width="50%">
+
+### 🚀 **Soluções Empresariais**
+
+<details>
+<summary>🌐 <strong>SuperInova Flow</strong> - Navegador Educacional</summary>
+
+**🔗 [Landing Page](https://github.com/ItaloSilvaHAS/landing-page-SuperInova-Flow-2)**
+
+Navegador revolucionário especializado para estudos, otimizando a experiência educacional online. Uma solução inovadora da SuperInova para transformar a forma como estudamos.
+
+**Tecnologias:** `HTML5` `CSS3` `JavaScript`
+**Status:** 🚀 **Landing Page Ativa**
+
+</details>
+
+<details>
+<summary>🛡️ <strong>GIPS PANORAMA</strong> - Prevenção de Desastres</summary>
+
+**🔗 [Landing Page](https://github.com/ItaloSilvaHAS/landing-page-GIPS-PANORAMA)**
+
+Plataforma tecnológica avançada da empresa GIPS para prevenção e monitoramento de desastres naturais. Utilizando dados em tempo real para salvar vidas e proteger comunidades.
+
+**Tecnologias:** `HTML5` `CSS3` `JavaScript`
+**Status:** 🛡️ **Landing Page Ativa**
+
+</details>
+
+</td>
+</tr>
+</table>
+
+### 🎮 **Projetos em Desenvolvimento**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🖥️ Visual Novel: Crossoverso**
+<br>
+História interativa épica misturando fantasia e sci-fi
+<br>
+`Python` `Kivy` `KivyMD`
+<br>
+🚧 **Em Desenvolvimento Ativo**
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Portfólio Pessoal**
+<br>
+Site pessoal showcasing projetos e habilidades
+<br>
+`React` `TypeScript` `Tailwind`
+<br>
+🔜 **Lançamento em Breve**
+
+</td>
+<td align="center" width="33%">
+
+**🔮 Projetos Secretos**
+<br>
+Inovações em desenvolvimento
+<br>
+`Multiple Tech Stacks`
+<br>
+👀 **Stay Tuned...**
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItaloSilvaHAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloSilvaHAS&theme=tokyonight&hide_border=true&background=1e1e2e&ring=00d9ff&fire=00ff87&currStreakLabel=00d9ff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSilvaHAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloSilvaHAS&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=00d9ff&line=00ff87&point=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Objetivos & Visão
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌟 **Missão**
+Criar tecnologias que transformem vidas e gerem impacto social positivo, sempre com foco na inovação e na excelência técnica.
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 **Visão**
+Ser reconhecido como um desenvolvedor que não apenas escreve código, mas constrói soluções que fazem a diferença no mundo.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Vamos Conectar e Colaborar?
+
+<p>
+  <a href="mailto:italo.ss2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/italo-silva-250677318">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/bosto_com">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@otaldoleite">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
----
+### 💼 **Aberto para:**
+🚀 Projetos inovadores | 🤝 Colaborações | 💡 Oportunidades de aprendizado | 🌟 Desafios técnicos
 
-## 🌟 Projetos em Destaque
-
-| 🚀 Projeto | 💡 Descrição | 🔧 Status |
-|-----------|--------------|-----------|
-| [🦋 Impulso Vida](https://impulso-vida.vercel.app/) | Plataforma com foco em impacto social | ✅ Concluído |
-| [📖 Projeto EVE](https://projeto-eve.vercel.app) | Narrativa interativa em formato web | ✅ Concluído |
-| 🖥️ Visual Novel: *Crossoverso* | História interativa de fantasia e sci-fi | 🚧 Em desenvolvimento |
-| 🌐 Meu Portfólio | Site pessoal com projetos e habilidades | 🔜 Em breve |
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItaloSilvaHAS&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSilvaHAS&layout=compact&theme=tokyonight" />
-</p>
+### 💫 *"Cada linha de código é um passo em direção ao futuro que queremos construir"* 💫
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 
-## 📫 Vamos Conversar?
-
-<p align="center">
-  <a href="mailto:italo.ss2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/bosto_com"><img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/italo-silva-250677318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@otaldoleite"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
----
-
-<h3 align="center">🚀 "Aprender é minha arma, e cada passo importa na minha jornada de crescimento!" 🚀</h3>
+</div>
