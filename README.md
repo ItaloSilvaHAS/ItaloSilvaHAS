@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🌟 Ítalo Silva 🌟
-### ✨ Desenvolvedor Full-Stack & Criador Digital ✨
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ítalo%20Silva&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%26%20Criador%20Digital&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Criando+experiências+digitais+únicas;Front-end+%7C+Back-end+%7C+Games+%7C+Desktop;Sempre+aprendendo%2C+sempre+evoluindo" alt="Typing SVG" />
 
@@ -12,6 +11,11 @@
 </p>
 
 <img src="eucoding.webp" width="300" alt="Programando" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ItaloSilvaHAS&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/ItaloSilvaHAS?color=00d9ff&style=for-the-badge&logo=github&label=FOLLOWERS" />
+</p>
 
 </div>
 
@@ -32,6 +36,7 @@
 - 🌱 **Eternamente estudando** - cada dia é uma nova oportunidade de crescer
 - 🎮 **Game Developer** nas horas vagas
 - 🎨 **UI/UX Enthusiast** - acredito que beleza e funcionalidade andam juntas
+- 🌟 **Open Source Contributor** - contribuindo para a comunidade
 
 </td>
 <td width="50%">
@@ -41,6 +46,7 @@
 - 🚀 **Inovação** em cada linha de código
 - 📚 **Educação** e aprendizado contínuo
 - 🔮 **Futuro** - sempre pensando no que vem por aí
+- 💡 **Criatividade** em cada projeto
 
 </td>
 </tr>
@@ -51,6 +57,8 @@
 <div align="center">
 
 ## ⚡ Arsenal Tecnológico
+
+<img src="https://skillicons.dev/icons?i=python,rust,js,ts,html,css,react,nodejs,electron,tailwind,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -102,7 +110,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🌟 **Projetos de Impacto Social**
 
@@ -131,7 +139,7 @@ Uma experiência narrativa interativa inovadora no formato web, explorando story
 </details>
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🚀 **Soluções Empresariais**
 
@@ -160,15 +168,47 @@ Plataforma tecnológica avançada da empresa GIPS para prevenção e monitoramen
 </details>
 
 </td>
+<td width="33%">
+
+### 🎮 **My Games**
+
+<details>
+<summary>🐍 <strong>Snake Game Retro</strong> - Clássico Arcade</summary>
+
+**🔗 [Jogar Agora](link-do-seu-jogo)**
+
+Reimaginação moderna do clássico jogo da cobrinha com visual retro neon. Desenvolvido com HTML5 Canvas, inclui efeitos visuais, controles responsivos e sistema de high score.
+
+**Features:**
+- ✨ Visual neon retro
+- 🎮 Controles mobile-friendly
+- 🏆 Sistema de high score
+- 📱 Design responsivo
+
+**Tecnologias:** `HTML5 Canvas` `JavaScript` `CSS3`
+**Status:** 🎮 **Jogável & Funcional**
+
+</details>
+
+<details>
+<summary>🔮 <strong>Mais Jogos</strong> - Em Breve</summary>
+
+Novos jogos incríveis estão sendo desenvolvidos! Fique ligado para mais aventuras interativas.
+
+**Status:** 🚧 **Em Desenvolvimento**
+
+</details>
+
+</td>
 </tr>
 </table>
 
-### 🎮 **Projetos em Desenvolvimento**
+### 🎯 **Projetos em Desenvolvimento**
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🖥️ Visual Novel: Crossoverso**
 <br>
@@ -179,7 +219,7 @@ História interativa épica misturando fantasia e sci-fi
 🚧 **Em Desenvolvimento Ativo**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🌐 Portfólio Pessoal**
 <br>
@@ -190,11 +230,22 @@ Site pessoal showcasing projetos e habilidades
 🔜 **Lançamento em Breve**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+**🎮 Game Engine 2D**
+<br>
+Engine personalizada para desenvolvimento de jogos
+<br>
+`Rust` `WebGL` `WASM`
+<br>
+🔬 **Pesquisa & Desenvolvimento**
+
+</td>
+<td align="center" width="25%">
 
 **🔮 Projetos Secretos**
 <br>
-Inovações em desenvolvimento
+Inovações revolucionárias em desenvolvimento
 <br>
 `Multiple Tech Stacks`
 <br>
@@ -209,13 +260,19 @@ Inovações em desenvolvimento
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItaloSilvaHAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItaloSilvaHAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&fire=00ff87" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloSilvaHAS&theme=tokyonight&hide_border=true&background=1e1e2e&ring=00d9ff&fire=00ff87&currStreakLabel=00d9ff" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloSilvaHAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=00d9ff&text_color=ffffff" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloSilvaHAS&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=00d9ff&line=00ff87&point=ffffff" />
+
+### 🏆 **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=ItaloSilvaHAS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+### 📈 **Contribution Snake**
+<img src="https://github.com/ItaloSilvaHAS/ItaloSilvaHAS/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -230,17 +287,53 @@ Inovações em desenvolvimento
 <td width="50%" align="center">
 
 ### 🌟 **Missão**
-Criar tecnologias que transformem vidas e gerem impacto social positivo, sempre com foco na inovação e na excelência técnica.
+Criar tecnologias que transformem vidas e gerem impacto social positivo, sempre com foco na inovação e na excelência técnica. Desenvolver soluções que não apenas funcionam, mas inspiram.
 
 </td>
 <td width="50%" align="center">
 
 ### 🚀 **Visão**
-Ser reconhecido como um desenvolvedor que não apenas escreve código, mas constrói soluções que fazem a diferença no mundo.
+Ser reconhecido como um desenvolvedor que não apenas escreve código, mas constrói soluções que fazem a diferença no mundo. Transformar a forma como as pessoas interagem com a tecnologia.
 
 </td>
 </tr>
 </table>
+
+### 🎪 **Hobbies & Interesses**
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🎮 Game Development**
+<br>
+Criando mundos virtuais e experiências interativas
+
+</td>
+<td align="center" width="25%">
+
+**🎨 UI/UX Design**
+<br>
+Desenhando interfaces bonitas e funcionais
+
+</td>
+<td align="center" width="25%">
+
+**📚 Continuous Learning**
+<br>
+Sempre explorando novas tecnologias
+
+</td>
+<td align="center" width="25%">
+
+**🌱 Open Source**
+<br>
+Contribuindo para a comunidade
+
+</td>
+</tr>
+</table>
+</div>
 
 </div>
 
@@ -266,7 +359,10 @@ Ser reconhecido como um desenvolvedor que não apenas escreve código, mas const
 </p>
 
 ### 💼 **Aberto para:**
-🚀 Projetos inovadores | 🤝 Colaborações | 💡 Oportunidades de aprendizado | 🌟 Desafios técnicos
+🚀 Projetos inovadores | 🤝 Colaborações | 💡 Oportunidades de aprendizado | 🌟 Desafios técnicos | 🎮 Game jams
+
+### 💬 **Let's Talk About:**
+💻 Desenvolvimento Web | 🎮 Game Development | 🎨 Design de Interfaces | 🌍 Impacto Social | 🚀 Inovação Tecnológica
 
 </div>
 
@@ -275,6 +371,8 @@ Ser reconhecido como um desenvolvedor que não apenas escreve código, mas const
 <div align="center">
 
 ### 💫 *"Cada linha de código é um passo em direção ao futuro que queremos construir"* 💫
+
+### 🎯 *"Code with purpose, create with passion, innovate with impact"* 🎯
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 
