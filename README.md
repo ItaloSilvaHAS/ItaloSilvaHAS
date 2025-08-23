@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Localização-Brasil%20🇧🇷-FFD700?style=for-the-badge&labelColor=1e1e2e" />
 </p>
 
-<img src="eualt.gif" width="300" alt="Programando" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" />
+<img src="eumais.gif" width="300" alt="Programando" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ItaloSilvaHAS&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
