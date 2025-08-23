@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ítalo%20Silva&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%26%20Criador%20Digital&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Criando+experiências+digitais+únicas;Front-end+%7C+Back-end+%7C+Games+%7C+Desktop;Sempre+aprendendo%2C+sempre+evoluindo" alt="Typing SVG" />
+<img src="euplus" alt="Typing SVG" /> <br> <br>
 
 <p>
   <img src="https://img.shields.io/badge/Foco-Inovação%20%26%20Impacto%20Social-00D9FF?style=for-the-badge&labelColor=1e1e2e" />
