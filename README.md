@@ -174,7 +174,7 @@ Plataforma tecnológica avançada da empresa GIPS para prevenção e monitoramen
 <details>
 <summary>🐍 <strong>Snake Game Retro</strong> - Clássico Arcade</summary>
 
-**🔗 [Jogar Agora](link-do-seu-jogo)**
+**🔗 [Jogar Agora](https://github.com/ItaloSilvaHAS/Classic-Snake-Game)**
 
 Reimaginação moderna do clássico jogo da cobrinha com visual retro neon. Desenvolvido com HTML5 Canvas, inclui efeitos visuais, controles responsivos e sistema de high score.
 
