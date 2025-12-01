@@ -1,7 +1,7 @@
 <div align="center">
 
 <center> <h1> "Hello, World!" </h1></center>
-<img src="euplus.gif" height ="200" width="320" alt="Typing SVG" /> <br> <br>
+<img src="Doctor.gif" height ="200" width="320" alt="Typing SVG" /> <br> <br>
 
 <p>
   <img src="https://img.shields.io/badge/Foco-Inovação%20%26%20Impacto%20Social-00D9FF?style=for-the-badge&labelColor=1e1e2e" />
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Localização-Brasil%20🇧🇷-FFD700?style=for-the-badge&labelColor=1e1e2e" />
 </p>
 
-<img src="eumais.gif" height ="240" width="300" alt="Programando" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" /> <br> <br>
+<img src="Doctor2.gif" height ="240" width="300" alt="Programando" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" /> <br> <br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ItaloSilvaHAS&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
