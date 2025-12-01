@@ -234,8 +234,7 @@ O <b>Mestrado</b> é um curso de pós-graduação <i>stricto sensu</i> (em senti
 
 **🎯 Tema de Pesquisa Planejado**
 
-> ### *"O Paradoxo da Resposta Instantânea:
-> Como a Comodidade Tecnológica Compromete o Processo de Aprendizagem e a Busca por Propósito"*
+> ### *"O Paradoxo da Resposta Instantânea: Como a Comodidade Tecnológica Compromete o Processo de Aprendizagem e a Busca por Propósito"*
 
 </div>
 
