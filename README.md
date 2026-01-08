@@ -1,7 +1,7 @@
-# <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Ítalo%20Silva%20Dos%20Santos&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Academic%20Researcher&descSize=22&descAlignY=58" width="100%" /> </div>
+# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ítalo+Silva+Dos+Santos;Software+Engineer;Academic+Researcher;Dar+vida+a+ideias..." alt="Typing SVG" /> </div>
 
 <div align="center">
-  <img src="Doctor.gif" height="150" alt="Work" />
+  <img src="Doctor.gif" height="250" alt="Work" />
 </div>
 
 ## Sobre Mim
@@ -75,7 +75,7 @@ Uma iniciativa de pesquisa que propõe o Flux como uma nova unidade de medida pa
 ---
 
 <div align="center">
-  <img src="Doctor2.gif" height="140" alt="Coding" />
+  <img src="Doctor2.gif" height="220" alt="Coding" />
   <p><i>"A matemática é a música da razão."</i></p>
 </div>
 
