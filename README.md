@@ -1,7 +1,9 @@
-# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ítalo+Silva+Dos+Santos;Software+Engineer;Academic+Researcher;Dar+vida+a+ideias..." alt="Typing SVG" /> </div>
-
 <div align="center">
-  <img src="Doctor.gif" height="250" alt="Work" />
+  <img src="isagiicon.jpg" width="100%" alt="Isagi Metavision Banner" />
+  
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ítalo+Silva+Dos+Santos;Metavision+Active...;Software+Engineer;Academic+Researcher" alt="Typing SVG" />
 </div>
 
 ## Sobre Mim
