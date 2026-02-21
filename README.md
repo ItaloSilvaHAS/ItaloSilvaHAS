@@ -3,9 +3,6 @@
   
   <br/> <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ítalo+Silva+Dos+Santos;Metavision+Active...;Software+Engineer;Academic+Researcher" alt="Typing SVG" />
-</div>
-
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por dar vida a ideias. Ao construir meu próprio navegador, descobri a magnitude da Engenharia de Software e me reencontrei com a matemática, desenvolvendo uma profunda conexão com a lógica aplicada. Decidi seguir a carreira acadêmica enquanto evoluo minhas habilidades técnicas, com o objetivo imediato de ingressar em uma Iniciação Científica (IC) e, posteriormente, em um mestrado.
 
@@ -69,7 +66,7 @@ Sou movido pela lógica e pela resolução de problemas complexos. Com formaçã
 ---
 
 <div align="center">
-  <img src="Doctor2.gif" height="220" alt="Coding" />
+  <img src="isagitip.gif" height="220" alt="Coding" />
   <p><i>"A matemática é a música da razão."</i></p>
 </div>
 
