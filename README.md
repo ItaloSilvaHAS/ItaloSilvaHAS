@@ -1,7 +1,7 @@
 <div align="center">
   <img src="isagiicon.jpg" width="100%" alt="Isagi Metavision Banner" />
   
-  <br/>
+  <br/> <br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ítalo+Silva+Dos+Santos;Metavision+Active...;Software+Engineer;Academic+Researcher" alt="Typing SVG" />
 </div>
@@ -12,15 +12,7 @@ Sou um desenvolvedor apaixonado por dar vida a ideias. Ao construir meu próprio
 Sou movido pela lógica e pela resolução de problemas complexos. Com formação técnica concluída e cursando ADS na UNINTER, busco a excelência acadêmica com foco em pesquisa científica e doutorado em Ciência da Computação.
 
 ---
-
-## Projetos de Impacto
-
-### [🌐 Flow Browser](https://github.com/ItaloSilvaHAS/Flow-Browser)
-Um ecossistema digital projetado para estudantes. O Flow é um navegador focado em produtividade que elimina distrações através de bloqueadores nativos e ferramentas de auxílio ao estudo. Seu diferencial estratégico são os simulados integrados de grandes exames (ENEM, FUVEST, FATEC), permitindo a prática constante dentro de um ambiente controlado.
-
-### [🧪 Flux Unit](https://github.com/ItaloSilvaHAS/Flux-Unit)
-Uma iniciativa de pesquisa que propõe o Flux como uma nova unidade de medida para o foco humano. O projeto utiliza análise de dados comportamentais para transformar a concentração em uma métrica científica, permitindo a quantificação da produtividade cognitiva.
-
+### Futuramente destacarei aqui meus projetos.
 ---
 
 ## Stack Tecnológica
