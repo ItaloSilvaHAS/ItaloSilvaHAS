@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por dar vida a ideias. Ao construir meu próprio navegador, descobri a magnitude da Engenharia de Software e me reencontrei com a matemática, desenvolvendo uma profunda conexão com a lógica aplicada. Decidi seguir a carreira acadêmica enquanto evoluo minhas habilidades técnicas, com o objetivo imediato de ingressar em uma Iniciação Científica (IC) e, posteriormente, em um mestrado.
 
-Sou movido pela lógica e pela resolução de problemas complexos. Com formação técnica concluída e cursando ADS na UNINTER, busco a excelência acadêmica com foco em pesquisa científica e doutorado em Ciência da Computação.
+Sou movido pela lógica e pela resolução de problemas complexos. Com formação técnica concluída e cursando DSM na FATEC ITAQUERA, busco a excelência acadêmica com foco em pesquisa científica e doutorado em Ciência da Computação.
 
 ---
 ### Futuramente destacarei aqui meus projetos.
