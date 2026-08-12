@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="isagiicon.jpg" width="100%" alt="Isagi Metavision Banner" />
-  
-  <br/> <br>
+
 
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por dar vida a ideias. Ao construir meu próprio navegador, descobri a magnitude da Engenharia de Software e me reencontrei com a matemática, desenvolvendo uma profunda conexão com a lógica aplicada. Decidi seguir a carreira acadêmica enquanto evoluo minhas habilidades técnicas, com o objetivo imediato de ingressar em uma Iniciação Científica (IC) e, posteriormente, em um mestrado.
